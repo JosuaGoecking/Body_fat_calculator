@@ -1,6 +1,6 @@
 # Body_fat_calculator
 Calculate your body fat percentage using the U.S. Navy formula.
-The formula is taken from https://körperfettwaage-info.de/us-navy-methode-rechner/, but can be also found at least in similar form on many other webpages. According to the former webpage the accuracy of this calculation is about 3%.
+The formula is taken from [here](https://körperfettwaage-info.de/us-navy-methode-rechner/), but can be also found at least in similar form on many other webpages. According to the former webpage the accuracy of this calculation is about 3%.
 
 ## Run the programm
 Compile the file e.g. by using the followings commands in your Unix shell 
